@@ -8,15 +8,8 @@ local Locale = ExBoss.Locale
 local function GetEffectiveLocale()
     if ExBoss and ExBoss.GetEffectiveLocale then
         local locale = tostring(ExBoss:GetEffectiveLocale() or "zhCN"):gsub("%s+", "")
-        if locale == "enGB" then
-            return "enUS"
-        end
-        if locale == "zhTW" then
-            return "zhCN"
-        end
-        if locale == "enUS" or locale == "zhCN" then
-            return locale
-        end
+        if locale == "enGB" then return "enUS" end
+        return locale
     end
     return "zhCN"
 end
@@ -29,7 +22,9 @@ function Locale.TranslateBossDynamicText(text)
     if type(text) ~= "string" then
         return text
     end
-    if GetEffectiveLocale() ~= "enUS" then
+    -- zhCN 原文不需要转换
+    local locale = GetEffectiveLocale()
+    if locale == "zhCN" then
         return text
     end
 

@@ -1180,3 +1180,4 @@ L["自定义小怪事件。"] = "自定义小怪事件。"  -- TODO: translate
 -- auto-added by sync_locale_keys.py
 L["..."] = "..."  -- TODO: translate
 L["小怪护盾面板"] = "小怪护盾面板"  -- TODO: translate
+L["预设配置"] = "Standardprofil"

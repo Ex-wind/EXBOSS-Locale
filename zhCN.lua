@@ -996,3 +996,4 @@ L["自定义小怪事件。"] = true
 -- auto-added by sync_locale_keys.py
 L["..."] = true
 L["小怪护盾面板"] = true
+L["预设配置"] = true
