@@ -6,6 +6,48 @@ if not L then
 end
 
 -- added 2026-05-22 22:19
+-- added 2026-05-23 02:36
+-- added 2026-05-23 06:22
+-- added 2026-05-23 07:27
+-- added 2026-05-24 01:50
+-- added 2026-05-24 01:57
+L["私信"] = "DM"  -- TODO: translate
+L["直播间"] = "Live Stream"  -- TODO: translate
+L["额外护盾条设置"] = "Extra Shield Bar Settings"  -- TODO: translate
+L["供首领/副本额外功能复用的单体护盾监控条。"] = "A reusable single-target shield monitor bar for boss and dungeon extra mechanics."  -- TODO: translate
+L["显示数值"] = "Show Value"  -- TODO: translate
+L["测试护盾(3秒)"] = "Test Shield (3s)"  -- TODO: translate
+L["数值文本"] = "Value Text"  -- TODO: translate
+
+L["额外护盾条"] = "额外护盾条"  -- TODO: translate
+L["额外感谢"] = "Special Thanks"  -- TODO: translate
+
+L["自由依附 (Beta)"] = "自由依附 (Beta)"  -- TODO: translate
+L["开启后可将施法条组依附于任意 UI 元素。若目标框体不存在，将自动对齐到屏幕中心。"] = "开启后可将施法条组依附于任意 UI 元素。若目标框体不存在，将自动对齐到屏幕中心。"  -- TODO: translate
+L["启用自由依附"] = "启用自由依附"  -- TODO: translate
+L["当前目标路径"] = "当前目标路径"  -- TODO: translate
+L["鼠标选取"] = "鼠标选取"  -- TODO: translate
+L["字体：施法目标"] = "字体：施法目标"  -- TODO: translate
+L["显示目标姓名"] = "显示目标姓名"  -- TODO: translate
+L["并入法术名称"] = "并入法术名称"  -- TODO: translate
+L["中间分隔符"] = "中间分隔符"  -- TODO: translate
+L["拾取中: "] = "拾取中: "  -- TODO: translate
+L["左键 : 选择该框架"] = "左键 : 选择该框架"  -- TODO: translate
+L["右键/ESC : 取消退出"] = "右键/ESC : 取消退出"  -- TODO: translate
+L["玩家"] = "玩家"  -- TODO: translate
+L["测试协助"] = "QA Credits"  -- TODO: translate
+L["小怪护盾监控"] = "Trash Shield Monitor"  -- TODO: translate
+L["小工具"] = "Tools"  -- TODO: translate
+L["大米怪物施法"] = "Mythic Cast"  -- TODO: translate
+L["大米怪物施法 (MythicCast)"] = "Mythic Cast (MythicCast)"  -- TODO: translate
+L["实时监控姓名板单位的施法进度。"] = "Monitor enemy nameplate cast progress in real time."  -- TODO: translate
+L["进入5人副本，施法监控已启用。"] = "Entered a 5-player instance. Mythic Cast is now enabled."  -- TODO: translate
+
+L["感谢以下贡献者提供各语言翻译。"] = "Thanks to the following contributors for their translations."  -- TODO: translate
+L["如有遗漏请提醒我"] = "Let me know if I missed anyone."  -- TODO: translate
+
+L["关于插件"] = "About"  -- TODO: translate
+
 L["时间文本设置"] = "Time Text Settings"  -- TODO: translate
 L["DPS职责下开启"] = "Enable for DPS"  -- TODO: translate
 L["治疗职责下开启"] = "Enable for Healer"  -- TODO: translate
