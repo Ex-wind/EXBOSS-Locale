@@ -5,6 +5,14 @@ if not L then
     return
 end
 
+-- added 2026-05-26 02:03
+L["阶段转换"] = "Phase Transition"
+L["打断"] = "Interrupt"
+L["跑圈"] = "Run Circle"
+
+-- added 2026-05-26 01:14
+L["导出Lua一次只能选择一个目标"] = "Lua export only supports one selected target at a time"
+
 -- added 2026-05-26 00:58
 -- added 2026-05-26 01:04
 L["当前没有可用的综合设置方案"] = "No settings presets are currently available"
@@ -1385,6 +1393,12 @@ L["水平偏移 (X)"] = "X Offset"
 L["垂直偏移 (Y)"] = "Y Offset"
 L["内置作者Lua已生成"] = "Built-in author Lua generated"
 L["导出内置作者Lua"] = "Export Built-in Author Lua"
+L["内置作者"] = "Built-in Author"
+L["请选择内置作者"] = "Please select a built-in author"
+L["选择内置作者"] = "Select Built-in Author"
+L["选择要生成到哪个内置作者文件。"] = "Choose which built-in author file to generate."
+L["当前没有可用的内置作者"] = "No built-in authors are currently available"
+L["注意：这是给内置作者使用的选项。"] = "Note: this option is intended for built-in authors."
 L["把内容直接粘贴到对应作者文件："] = "Paste the content into the corresponding author file:"
 L["作者插件Lua不包含设置页外观"] = "Plugin author Lua does not include appearance settings"
 L["作者插件Lua不包含小怪CD"] = "Plugin author Lua does not include trash CD"
