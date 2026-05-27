@@ -1,4 +1,4 @@
-﻿---@diagnostic disable: undefined-global
+---@diagnostic disable: undefined-global
 
 local L = ExBoss and ExBoss.NewLocale and ExBoss:NewLocale("ruRU")
 if not L then
@@ -12,42 +12,42 @@ end
 -- added 2026-05-24 01:50
 -- added 2026-05-24 01:57
 -- added 2026-05-26 01:04
-L["当前没有可用的综合设置方案"] = "В настоящее время нет доступных пресетов настроек"
-L["点名(射线)"] = "Метка (Луч)"
-L["AOE(击退)"] = "АоЕ (Нокбэк)"
-L["驱散(坦克)"] = "Диспел (Танк)"
-L["坦克(吸收)"] = "Танк (Поглощение)"
-L["躲开火圈"] = "Избегать огненное кольцо"
-L["点名(驱散)"] = "Метка (Диспел)"
-L["AOE(沉默)"] = "АоЕ (Сайленс)"
-L["准备吸人"] = "Приготовиться к притягиванию"
-L["救人(定身)"] = "Спасение (Рут)"
-L["点名追人"] = "Фиксейт"
-L["正面顺劈"] = "Фронтальный клив"
-L["治疗坦克"] = "Исцелить танка"
-L["躲开正面"] = "Избегать фронтальную атаку"
-L["注意躲球"] = "Следить за сферами"
-L["驱散(魔法)"] = "Диспел (Магия)"
-L["坦克尖刺(击飞)"] = "Спайк на танка (Подброс)"
-L["点名(吸收)"] = "Метка (Поглощение)"
-L["注意地板"] = "Следить за землёй"
-L["转火宝珠"] = "Переключиться на сферу"
-L["AOE(断条)"] = "АоЕ (Кик)"
-L["控断小怪"] = "CC и кик аддов"
-L["BOSS激活"] = "Босс активен"
-L["导出Lua"] = "Экспорт Lua"
-L["请先勾选一个导出目标"] = "Сначала выберите одну цель экспорта"
-L["导出一次只能选择一个目标"] = "Экспорт Lua поддерживает только одну выбранную цель за раз"
-L["综合设置方案"] = "Пресет настроек"
-L["从作者插件导入整套综合设置；这是一次性覆盖，不保留回退。"] = "Импорт полного пресета настроек из авторского плагина. Это однократная перезапись без отката."
-L["当前没有可用的综合设置方案，请先在作者插件的 Presets/SettingsPage.lua 粘贴“导出Lua”。"] = "Пресет настроек недоступен. Сначала вставьте экспортированный Lua в Presets/SettingsPage.lua авторского плагина."
-L["请先选择综合设置方案"] = "Сначала выберите пресет настроек"
-L["综合设置方案数据无效"] = "Данные выбранного пресета настроек недействительны"
-L["综合设置方案导入接口未就绪"] = "Интерфейс импорта пресета настроек не готов"
-L["导入综合设置失败："] = "Не удалось импортировать пресет настроек: "
-L["综合设置已导入（覆盖当前本地设置）"] = "Пресет настроек импортирован и перезаписал текущие локальные настройки"
-L["确认导入综合设置方案：%s ？\n这会直接覆盖当前本地综合设置。"] = "Импортировать пресет настроек: %s?\nЭто напрямую перезапишет ваши текущие локальные настройки."
-L["当前没有可用的小怪作者方案，请先在作者插件的 Presets/TrashConfig.lua 粘贴“导出Lua”。"] = "Авторские пресеты для треша пока недоступны. Сначала вставьте экспортированный Lua в Presets/TrashConfig.lua."
+L["当前没有可用的综合设置方案"] = "当前没有可用的综合设置方案"  -- TODO: translate
+L["点名(射线)"] = "Marked (Beam)"  -- TODO: translate
+L["AOE(击退)"] = "AOE (Knockback)"  -- TODO: translate
+L["驱散(坦克)"] = "Dispel (Tank)"  -- TODO: translate
+L["坦克(吸收)"] = "Tank (Absorb)"  -- TODO: translate
+L["躲开火圈"] = "Dodge Fire Ring"  -- TODO: translate
+L["点名(驱散)"] = "Marked (Dispel)"  -- TODO: translate
+L["AOE(沉默)"] = "AOE (Silence)"  -- TODO: translate
+L["准备吸人"] = "Prepare for Pull-in"  -- TODO: translate
+L["救人(定身)"] = "Rescue (Root)"  -- TODO: translate
+L["点名追人"] = "Fixate"  -- TODO: translate
+L["正面顺劈"] = "Frontal Cleave"  -- TODO: translate
+L["治疗坦克"] = "Heal Tank"  -- TODO: translate
+L["躲开正面"] = "Dodge Frontal"  -- TODO: translate
+L["注意躲球"] = "Watch Orbs"  -- TODO: translate
+L["驱散(魔法)"] = "Dispel (Magic)"  -- TODO: translate
+L["坦克尖刺(击飞)"] = "Tank Spike (Knock Up)"  -- TODO: translate
+L["点名(吸收)"] = "Marked (Absorb)"  -- TODO: translate
+L["注意地板"] = "Watch Ground"  -- TODO: translate
+L["转火宝珠"] = "Switch to Orb"  -- TODO: translate
+L["AOE(断条)"] = "AOE (Interrupt)"  -- TODO: translate
+L["控断小怪"] = "CC and Interrupt Adds"  -- TODO: translate
+L["BOSS激活"] = "Boss Active"  -- TODO: translate
+L["导出Lua"] = "Export Lua"  -- TODO: translate
+L["请先勾选一个导出目标"] = "Please select one export target first"  -- TODO: translate
+L["导出一次只能选择一个目标"] = "Lua export only supports one selected target at a time"  -- TODO: translate
+L["综合设置方案"] = "Settings Preset"  -- TODO: translate
+L["从作者插件导入整套综合设置；这是一次性覆盖，不保留回退。"] = "Import a full settings preset from an author plugin. This is a one-time overwrite with no rollback."  -- TODO: translate
+L["当前没有可用的综合设置方案，请先在作者插件的 Presets/SettingsPage.lua 粘贴“导出Lua”。"] = "No settings preset is available. Paste the exported Lua into the author plugin's Presets/SettingsPage.lua first."  -- TODO: translate
+L["请先选择综合设置方案"] = "Please select a settings preset first"  -- TODO: translate
+L["综合设置方案数据无效"] = "The selected settings preset data is invalid"  -- TODO: translate
+L["综合设置方案导入接口未就绪"] = "The settings preset import interface is not ready"  -- TODO: translate
+L["导入综合设置失败："] = "Failed to import settings preset: "  -- TODO: translate
+L["综合设置已导入（覆盖当前本地设置）"] = "Settings preset imported and overwrote current local settings"  -- TODO: translate
+L["确认导入综合设置方案：%s ？\n这会直接覆盖当前本地综合设置。"] = "Import settings preset: %s?\nThis will directly overwrite your current local settings."  -- TODO: translate
+L["当前没有可用的小怪作者方案，请先在作者插件的 Presets/TrashConfig.lua 粘贴“导出Lua”。"] = "No trash author presets are available yet. Paste the exported Lua into Presets/TrashConfig.lua first."  -- TODO: translate
 
 L["私信"] = "ЛС"
 L["直播间"] = "Стрим"
