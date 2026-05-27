@@ -1,4 +1,4 @@
----@diagnostic disable: undefined-global
+﻿---@diagnostic disable: undefined-global
 
 local L = ExBoss and ExBoss.NewLocale and ExBoss:NewLocale("esMX")
 if not L then
@@ -15,10 +15,10 @@ end
 L["当前没有可用的综合设置方案"] = "No hay presets de configuración disponibles actualmente"
 L["点名(射线)"] = "Marcado (Rayo)"
 L["AOE(击退)"] = "AOE (Derribo)"
-L["驱散(坦克)"] = "Disipar (Tank)"
-L["坦克(吸收)"] = "Tank (Absorber)"
+L["驱散(坦克)"] = "Dispel (Tank)"
+L["坦克(吸收)"] = "Tank (Absorb)"
 L["躲开火圈"] = "Esquivar Anillo de Fuego"
-L["点名(驱散)"] = "Marcado (Disipar)"
+L["点名(驱散)"] = "Marcado (Dispel)"
 L["AOE(沉默)"] = "AOE (Silencio)"
 L["准备吸人"] = "Prepararse para Atracción"
 L["救人(定身)"] = "Rescate (Raíz)"
@@ -27,13 +27,13 @@ L["正面顺劈"] = "Cuchillada Frontal"
 L["治疗坦克"] = "Sanar Tank"
 L["躲开正面"] = "Esquivar Frontal"
 L["注意躲球"] = "Cuidado con Orbes"
-L["驱散(魔法)"] = "Disipar (Magia)"
+L["驱散(魔法)"] = "Dispel (Magia)"
 L["坦克尖刺(击飞)"] = "Pico de Tank (Lanzar)"
-L["点名(吸收)"] = "Marcado (Absorber)"
+L["点名(吸收)"] = "Marcado (Absorb)"
 L["注意地板"] = "Cuidado con el Suelo"
 L["转火宝珠"] = "Cambiar a Orbe"
-L["AOE(断条)"] = "AOE (Interrumpir)"
-L["控断小怪"] = "CC e Interrumpir Adds"
+L["AOE(断条)"] = "AOE (Kick)"
+L["控断小怪"] = "CC y Kick Adds"
 L["BOSS激活"] = "Jefe Activo"
 L["导出Lua"] = "Exportar Lua"
 L["请先勾选一个导出目标"] = "Por favor selecciona un objetivo de exportación primero"

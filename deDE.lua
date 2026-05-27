@@ -1,4 +1,4 @@
----@diagnostic disable: undefined-global
+﻿---@diagnostic disable: undefined-global
 
 local L = ExBoss and ExBoss.NewLocale and ExBoss:NewLocale("deDE")
 if not L then
@@ -14,16 +14,16 @@ end
 -- added 2026-05-26 01:04
 L["当前没有可用的综合设置方案"] = "Derzeit sind keine Einstellungsvorlagen verfügbar"
 L["点名(射线)"] = "Markiert (Strahl)"
-L["AOE(击退)"] = "AOE (Rückstoß)"
+L["AOE(击退)"] = "AOE (Knockback)"
 L["驱散(坦克)"] = "Dispel (Tank)"
 L["坦克(吸收)"] = "Tank (Absorb)"
 L["躲开火圈"] = "Feuerring ausweichen"
 L["点名(驱散)"] = "Markiert (Dispel)"
-L["AOE(沉默)"] = "AOE (Stille)"
+L["AOE(沉默)"] = "AOE (Silence)"
 L["准备吸人"] = "Auf Heranziehen vorbereiten"
-L["救人(定身)"] = "Rettung (Wurzel)"
+L["救人(定身)"] = "Rettung (Root)"
 L["点名追人"] = "Fixieren"
-L["正面顺劈"] = "Frontaler Hieb"
+L["正面顺劈"] = "Frontaler Cleave"
 L["治疗坦克"] = "Tank heilen"
 L["躲开正面"] = "Frontal ausweichen"
 L["注意躲球"] = "Kugeln beobachten"
@@ -32,8 +32,8 @@ L["坦克尖刺(击飞)"] = "Tank Spike (Hochschleudern)"
 L["点名(吸收)"] = "Markiert (Absorb)"
 L["注意地板"] = "Boden beobachten"
 L["转火宝珠"] = "Zu Kugel wechseln"
-L["AOE(断条)"] = "AOE (Unterbrechen)"
-L["控断小怪"] = "CC und Adds unterbrechen"
+L["AOE(断条)"] = "AOE (Kick)"
+L["控断小怪"] = "CC und Adds kicken"
 L["BOSS激活"] = "Boss aktiv"
 L["导出Lua"] = "Lua exportieren"
 L["请先勾选一个导出目标"] = "Bitte zuerst ein Exportziel auswählen"
