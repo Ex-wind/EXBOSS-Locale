@@ -13,6 +13,17 @@ end
 -- added 2026-05-24 01:57
 -- added 2026-05-26 01:04
 -- added 2026-05-27 sync
+-- added 2026-05-28 09:25
+L["确认"] = "Confirm"  -- TODO: translate
+L["单点名LSM音效"] = "Single Target LSM Sound"  -- TODO: translate
+L["多点名LSM音效"] = "Multi-Target LSM Sound"  -- TODO: translate
+L["检测延迟(秒)"] = "Detection Delay (sec)"  -- TODO: translate
+L["内置作者"] = "Built-in Author"  -- TODO: translate
+L["请选择内置作者"] = "Please select a built-in author"  -- TODO: translate
+L["选择内置作者"] = "Select Built-in Author"  -- TODO: translate
+L["选择要生成到哪个内置作者文件。"] = "Choose which built-in author file to generate."  -- TODO: translate
+L["当前没有可用的内置作者"] = "No built-in authors are currently available"  -- TODO: translate
+L["注意：这是给内置作者使用的选项。"] = "Note: this option is intended for built-in authors."  -- TODO: translate
 L["打断"] = "Прерывание"
 L["跑圈"] = "Бег по кругу"
 L["导出Lua一次只能选择一个目标"] = "За один экспорт Lua можно выбрать только одну цель"

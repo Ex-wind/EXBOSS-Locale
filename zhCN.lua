@@ -5,6 +5,14 @@ if not L then
     return
 end
 
+-- added 2026-05-28 15:00
+-- added 2026-05-28 09:25
+L["确认"] = true
+
+L["单点名LSM音效"] = true
+L["多点名LSM音效"] = true
+L["检测延迟(秒)"] = true
+
 -- added 2026-05-26 02:03
 L["阶段转换"] = true
 L["打断"] = true
