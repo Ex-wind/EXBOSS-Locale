@@ -5,6 +5,40 @@ if not L then
     return
 end
 
+-- added 2026-06-08
+-- added 2026-06-08 21:43
+L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = "Are you sure you want to reset all settings for \"%s\"?\n\nThis action cannot be undone."
+L["重置配置"] = "Reset Settings"
+
+L["向上"] = "Up"
+L["向下"] = "Down"
+L["打断监控"] = "Interrupt Tracker"
+L["队友打断监控"] = "Party Interrupt Tracker"
+L["打断监控 锚点"] = "Interrupt Tracker Anchor"
+L["玩家名称"] = "Player Name"
+L["显示玩家名字"] = "Show Player Name"
+L["名字对齐方式"] = "Name Alignment"
+L["左对齐"] = "Align Left"
+L["居中"] = "Center"
+L["右对齐"] = "Align Right"
+L["玩家名字文字设置"] = "Player Name Text Settings"
+L["冷却时间设置"] = "Cooldown Time Settings"
+L["显示剩余时间"] = "Show Remaining Time"
+L["时间文字设置"] = "Time Text Settings"
+L["目标框架"] = "Target Frame"
+L["使用职业颜色"] = "Use Class Colors"
+L["自适应宽度"] = "Auto Width"
+L["团队标记图标"] = "Raid Target Icon"
+L["依附小队框体"] = "Attach to Party Frames"
+L["启用依附到小队框体"] = "Enable Attach to Party Frames"
+L["依附到目标框架的"] = "Attach to Target Frame"
+L["无"] = "None"
+L["上方"] = "Above"
+L["下方"] = "Below"
+L["准备"] = "Ready"
+L["EQO小队框架"] = "EQO Party Frames"
+L["暴雪原生框架"] = "Blizzard Default Frames"
+
 -- added 2026-06-07
 -- added 2026-06-07 00:13
 L["状态图标"] = "Status Icons"
@@ -39,6 +73,8 @@ L["触发时发光"] = "Glow on Trigger"
 L["层数文字设置"] = "Stack Text Settings"
 L["发光设置"] = "Glow Settings"
 L["饰品顺序"] = "Trinket Order"
+L["向右"] = "Right"
+L["向左"] = "Left"
 L["正常"] = "Normal"
 L["灰色"] = "Gray"
 L["累加样本"] = "Extension Sample"

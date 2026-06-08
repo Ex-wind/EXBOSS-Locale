@@ -4,6 +4,40 @@ local L = ExBoss and ExBoss.NewLocale and ExBoss:NewLocale("zhCN", true)
 if not L then
     return
 end
+-- added 2026-06-08
+-- added 2026-06-08 21:43
+L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = true
+L["重置配置"] = true
+
+L["向上"] = true
+L["向下"] = true
+L["打断监控"] = true
+L["队友打断监控"] = true
+L["打断监控 锚点"] = true
+L["玩家名称"] = true
+L["显示玩家名字"] = true
+L["名字对齐方式"] = true
+L["左对齐"] = true
+L["居中"] = true
+L["右对齐"] = true
+L["玩家名字文字设置"] = true
+L["冷却时间设置"] = true
+L["显示剩余时间"] = true
+L["时间文字设置"] = true
+L["目标框架"] = true
+L["使用职业颜色"] = true
+L["自适应宽度"] = true
+L["团队标记图标"] = true
+L["依附小队框体"] = true
+L["启用依附到小队框体"] = true
+L["依附到目标框架的"] = true
+L["无"] = true
+L["上方"] = true
+L["下方"] = true
+L["准备"] = true
+L["EQO小队框架"] = true
+L["暴雪原生框架"] = true
+
 -- added 2026-06-07 00:13
 L["状态图标"] = true
 L["迈萨拉洞窟 3号 - 沃达扎护盾"] = true
@@ -47,7 +81,6 @@ L["正常"] = true
 L["灰色"] = true
 L["累加样本"] = true
 L["层数样本"] = true
-
 
 -- added 2026-05-30
 -- added 2026-06-01 02:19

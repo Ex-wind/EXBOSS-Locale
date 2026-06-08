@@ -15,6 +15,35 @@ end
 -- added 2026-05-28 09:25
 -- added 2026-06-01 07:48
 -- added 2026-06-07 00:13
+-- added 2026-06-08 21:43
+L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = "Are you sure you want to reset all settings for \"%s\"?\n\nThis action cannot be undone."  -- TODO: translate
+L["重置配置"] = "Reset Settings"  -- TODO: translate
+L["打断监控"] = "Interrupt Tracker"  -- TODO: translate
+L["队友打断监控"] = "Party Interrupt Tracker"  -- TODO: translate
+L["打断监控 锚点"] = "Interrupt Tracker Anchor"  -- TODO: translate
+L["玩家名称"] = "Player Name"  -- TODO: translate
+L["显示玩家名字"] = "Show Player Name"  -- TODO: translate
+L["名字对齐方式"] = "Name Alignment"  -- TODO: translate
+L["左对齐"] = "Align Left"  -- TODO: translate
+L["居中"] = "Center"  -- TODO: translate
+L["右对齐"] = "Align Right"  -- TODO: translate
+L["玩家名字文字设置"] = "Player Name Text Settings"  -- TODO: translate
+L["冷却时间设置"] = "Cooldown Time Settings"  -- TODO: translate
+L["显示剩余时间"] = "Show Remaining Time"  -- TODO: translate
+L["时间文字设置"] = "Time Text Settings"  -- TODO: translate
+L["目标框架"] = "Target Frame"  -- TODO: translate
+L["使用职业颜色"] = "Use Class Colors"  -- TODO: translate
+L["自适应宽度"] = "Auto Width"  -- TODO: translate
+L["团队标记图标"] = "Raid Target Icon"  -- TODO: translate
+L["依附小队框体"] = "Attach to Party Frames"  -- TODO: translate
+L["启用依附到小队框体"] = "Enable Attach to Party Frames"  -- TODO: translate
+L["依附到目标框架的"] = "Attach to Target Frame"  -- TODO: translate
+L["上方"] = "Above"  -- TODO: translate
+L["下方"] = "Below"  -- TODO: translate
+L["准备"] = "Ready"  -- TODO: translate
+L["EQO小队框架"] = "EQO Party Frames"  -- TODO: translate
+L["暴雪原生框架"] = "Blizzard Default Frames"  -- TODO: translate
+
 L["状态图标"] = "Status Icons"  -- TODO: translate
 L["迈萨拉洞窟 3号 - 沃达扎护盾"] = "Maysara Cavern Boss 3 - Wodaza Shield"  -- TODO: translate
 L["进入编辑模式后可直接调整额外护盾条位置。"] = "Enter edit mode to reposition the extra shield bar directly."  -- TODO: translate
@@ -191,7 +220,7 @@ L["启用单点音效"] = "Activer le son monocible"
 L["启用双点音效"] = "Activer le son multicible"
 L["仅5人本启用"] = "Seulement dans les donjons 5 joueurs"
 
-L["确认"] = "Confirmer" -- TODO: translate
+L["确认"] = "Confirm" -- TODO: translate
 L["单点名LSM音效"] = "Son LSM monocible"
 L["多点名LSM音效"] = "Son LSM multicible"
 L["检测延迟(秒)"] = "Délai de détection (s)"
