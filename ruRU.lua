@@ -17,6 +17,11 @@ end
 -- added 2026-06-01 07:48
 -- added 2026-06-07 00:13
 -- added 2026-06-08 21:43
+-- added 2026-06-08 22:34
+L["[CN] 12.0 坦克新版"] = "[CN] 12.0 Tank Preset"  -- TODO: translate
+L["[CN] 12.0 治疗新版"] = "[CN] 12.0 Healer Preset"  -- TODO: translate
+L["[CN] 12.0 DPS新版"] = "[CN] 12.0 DPS Preset"  -- TODO: translate
+
 L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = "Are you sure you want to reset all settings for \"%s\"?\n\nThis action cannot be undone."  -- TODO: translate
 L["重置配置"] = "Reset Settings"  -- TODO: translate
 L["打断监控"] = "Interrupt Tracker"  -- TODO: translate
