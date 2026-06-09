@@ -19,6 +19,7 @@ L["新版小怪作者方案不存在"] = "The new trash preset was not found"
 L["大米方案已切换为新版配置：%s"] = "Mythic+ slots switched to the new preset: %s"
 L["大米方案已是新版配置"] = "Mythic+ slots are already using the new preset"
 L["大米新版配置"] = "New Mythic+ Preset"
+L["可设置「被点名提示」!"] = "Can configure Target Alert!"
 
 L["向上"] = "Up"
 L["向下"] = "Down"
