@@ -4,6 +4,21 @@ local L = ExBoss and ExBoss.NewLocale and ExBoss:NewLocale("zhCN", true)
 if not L then
     return
 end
+-- added 2026-06-10
+-- added 2026-06-10 22:06
+L["启用开怪倒数"] = true
+L["图标样式"] = true
+L["图标设置(只在单图标生效)"] = true
+L["隐藏91级读条"] = true
+L["首领战禁用(输入首领战ID 用,分隔)"] = true
+L["施法目标"] = true
+L["冷却时间"] = true
+L["自由依附"] = true
+L["目标路径"] = true
+
+L["图标+文字"] = true
+L["单图标"] = true
+
 -- added 2026-06-08
 -- added 2026-06-08 21:43
 L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = true

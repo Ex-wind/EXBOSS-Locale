@@ -5,6 +5,21 @@ if not L then
     return
 end
 
+-- added 2026-06-10
+-- added 2026-06-10 22:06
+L["启用开怪倒数"] = "Enable Pull Countdown"
+L["图标样式"] = "Icon Style"
+L["图标设置(只在单图标生效)"] = "Icon Settings (Single Icon Only)"
+L["隐藏91级读条"] = "Hide Lv.91 Cast Bars"
+L["首领战禁用(输入首领战ID 用,分隔)"] = "Disable in Boss Fights (Boss IDs, comma-separated)"
+L["施法目标"] = "Cast Target"
+L["冷却时间"] = "Cooldown"
+L["自由依附"] = "Free Anchor"
+L["目标路径"] = "Target Path"
+
+L["图标+文字"] = "Icon + Text"
+L["单图标"] = "Single Icon"
+
 -- added 2026-06-08
 -- added 2026-06-08 21:43
 L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = "Are you sure you want to reset all settings for \"%s\"?\n\nThis action cannot be undone."
