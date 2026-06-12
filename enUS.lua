@@ -1692,3 +1692,6 @@ L["倒数提示"] = "Countdown Alert"
 L["启用单点音效"] = "Enable single-target sound"
 L["启用双点音效"] = "Enable multi-target sound"
 L["仅5人本启用"] = "Only in 5-player dungeons"
+
+L["就绪边框"] = "Ready Border"
+L["就绪边框颜色"] = "Ready Border Color"

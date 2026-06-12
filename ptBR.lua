@@ -1660,3 +1660,6 @@ L["显示时间文字"] = "Mostrar Texto de Tempo"
 L["被点名提示"] = "Alerta de Alvo"
 L["测试施法 "] = "Teste de Lançamento "
 L["2.5s"] = "2.5s"
+
+L["就绪边框"] = "Ready Border"
+L["就绪边框颜色"] = "Ready Border Color"
