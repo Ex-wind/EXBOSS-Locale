@@ -19,6 +19,28 @@ end
 -- added 2026-06-07 00:13
 -- added 2026-06-08 21:43
 -- added 2026-06-08 22:34
+-- added 2026-06-10 22:06
+L["启用开怪倒数"] = "Enable Pull Countdown"  -- TODO: translate
+L["图标样式"] = "Icon Style"  -- TODO: translate
+L["图标设置(只在单图标生效)"] = "Icon Settings (Single Icon Only)"  -- TODO: translate
+L["隐藏91级读条"] = "Hide Lv.91 Cast Bars"  -- TODO: translate
+L["首领战禁用(输入首领战ID 用,分隔)"] = "Disable in Boss Fights (Boss IDs, comma-separated)"  -- TODO: translate
+L["施法目标"] = "Cast Target"  -- TODO: translate
+L["冷却时间"] = "Cooldown"  -- TODO: translate
+L["自由依附"] = "Free Anchor"  -- TODO: translate
+L["目标路径"] = "Target Path"  -- TODO: translate
+L["图标+文字"] = "Icon + Text"  -- TODO: translate
+L["单图标"] = "Single Icon"  -- TODO: translate
+L["一键切换新版+导入小怪"] = "Switch to New Preset + Import Trash"  -- TODO: translate
+L["确认切换大米方案到 [CN] 12.0 新版，并导入 EXWIND_CN 小怪作者方案？\n这会覆盖当前本地小怪配置。"] = "Switch Mythic+ slots to the [CN] 12.0 preset and import the EXWIND_CN trash preset?\nThis will overwrite your current local trash config."  -- TODO: translate
+L["以下槽位缺少新版配置：%s"] = "The new preset is missing for these slots: %s"  -- TODO: translate
+L["新版小怪作者方案不存在"] = "The new trash preset was not found"  -- TODO: translate
+L["大米方案已切换为新版配置：%s"] = "Mythic+ slots switched to the new preset: %s"  -- TODO: translate
+L["大米方案已是新版配置"] = "Mythic+ slots are already using the new preset"  -- TODO: translate
+L["大米新版配置"] = "New Mythic+ Preset"  -- TODO: translate
+L["可设置「被点名提示」!"] = "Can configure Target Alert!"  -- TODO: translate
+L["无法识别该框架"] = "Frame not identifiable"  -- TODO: translate
+
 L["[CN] 12.0 坦克新版"] = "[CN] 12.0 Tank Preset"  -- TODO: translate
 L["[CN] 12.0 治疗新版"] = "[CN] 12.0 Healer Preset"  -- TODO: translate
 L["[CN] 12.0 DPS新版"] = "[CN] 12.0 DPS Preset"  -- TODO: translate

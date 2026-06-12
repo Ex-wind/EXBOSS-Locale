@@ -5,6 +5,21 @@ if not L then
     return
 end
 
+-- added 2026-06-10
+-- added 2026-06-10 22:06
+L["启用开怪倒数"] = "Enable Pull Countdown"
+L["图标样式"] = "Icon Style"
+L["图标设置(只在单图标生效)"] = "Icon Settings (Single Icon Only)"
+L["隐藏91级读条"] = "Hide Lv.91 Cast Bars"
+L["首领战禁用(输入首领战ID 用,分隔)"] = "Disable in Boss Fights (Boss IDs, comma-separated)"
+L["施法目标"] = "Cast Target"
+L["冷却时间"] = "Cooldown"
+L["自由依附"] = "Free Anchor"
+L["目标路径"] = "Target Path"
+
+L["图标+文字"] = "Icon + Text"
+L["单图标"] = "Single Icon"
+
 -- added 2026-06-08
 -- added 2026-06-08 21:43
 L["确定要重置「%s」的所有配置吗？\n\n此操作不可撤销。"] = "Are you sure you want to reset all settings for \"%s\"?\n\nThis action cannot be undone."
@@ -771,6 +786,10 @@ L["[语音替换] 中央警告语音"] = "[Voice Replace] Central Warning Voice"
 L["[语音替换] 施法开始语音"] = "[Voice Replace] Cast Start Voice"
 L["[语音替换] 提前5秒语音"] = "[Voice Replace] 5-Second Voice"
 L["[语音替换] 私人光环语音"] = "[Voice Replace] Private Aura Voice"
+L["[被点名提示] 整体配置"] = "[Target Alert] Full Config"
+L["(无音效)"] = "(No Sound)"
+L["是"] = "Yes"
+L["否"] = "No"
 L["私人光环语音替换"] = "Private Aura Voice Replace"
 L["当批量动作选择“倒数文本替换”时，会按当前生效配置的倒数文本匹配，再写入当前 author override。"] =
 "When Countdown Text Replace is selected, it matches the currently effective countdown text and writes the result into the current author override."
@@ -1140,6 +1159,8 @@ L["启用狗跳点名模块"] = "Enable Dog Jump Callout Module"
 L["预览狗跳点名面板"] = "Preview Dog Jump Panel"
 L["计时条设置"] = "Timer Bar Settings"
 L["计时条所有外观的设置"] = "Settings for all timer bar appearance elements"
+L["隐藏长技能"] = "Hide Long Timers"
+L["只显示最后几秒"] = "Only Show Last Seconds"
 L["条增长方式"] = "Bar Fill Mode"
 L["左到右填充"] = "Fill Left to Right"
 L["左到右消退"] = "Decay Left to Right"
