@@ -19,6 +19,21 @@ end
 -- added 2026-06-08 21:43
 -- added 2026-06-08 22:34
 -- added 2026-06-10 22:06
+-- added 2026-06-16 02:49
+L["启用小怪护盾条模块"] = "启用小怪护盾条模块"  -- TODO: translate
+L["就绪边框"] = "就绪边框"  -- TODO: translate
+L["就绪边框颜色"] = "就绪边框颜色"  -- TODO: translate
+L["坦克也生效"] = "坦克也生效"  -- TODO: translate
+L["当前:"] = "Current:"  -- TODO: translate
+L["下次:"] = "Next:"  -- TODO: translate
+L["等待识别"] = "Waiting for detection"  -- TODO: translate
+L["[被点名提示] 整体配置"] = "[Target Alert] Full Config"  -- TODO: translate
+L["(无音效)"] = "(No Sound)"  -- TODO: translate
+L["是"] = "Yes"  -- TODO: translate
+L["否"] = "No"  -- TODO: translate
+L["隐藏长技能"] = "Hide Long Timers"  -- TODO: translate
+L["只显示最后几秒"] = "Only Show Last Seconds"  -- TODO: translate
+
 L["启用开怪倒数"] = "Enable Pull Countdown"  -- TODO: translate
 L["图标样式"] = "Icon Style"  -- TODO: translate
 L["图标设置(只在单图标生效)"] = "Icon Settings (Single Icon Only)"  -- TODO: translate

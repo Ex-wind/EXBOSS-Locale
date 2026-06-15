@@ -5,6 +5,16 @@ if not L then
     return
 end
 
+-- added 2026-06-16 02:49
+L["启用小怪护盾条模块"] = "Enable Trash Shield Bar Module"
+L["就绪边框"] = "Ready Border"
+L["就绪边框颜色"] = "Ready Border Color"
+L["坦克也生效"] = "Also Apply to Tanks"
+
+L["当前:"] = "Current:"
+L["下次:"] = "Next:"
+L["等待识别"] = "Waiting for detection"
+
 -- added 2026-06-10
 -- added 2026-06-10 22:06
 L["启用开怪倒数"] = "Enable Pull Countdown"
