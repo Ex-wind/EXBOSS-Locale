@@ -5,6 +5,11 @@ if not L then
     return
 end
 -- added 2026-06-16 02:49
+-- added 2026-06-17 07:20
+L["框架被点名提示"] = true
+L["倒数圈高亮"] = true
+L["最大数量"] = true
+
 L["启用小怪护盾条模块"] = true
 L["就绪边框"] = true
 L["就绪边框颜色"] = true

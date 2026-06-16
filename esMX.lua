@@ -19,10 +19,15 @@ end
 -- added 2026-06-08 22:34
 -- added 2026-06-10 22:06
 -- added 2026-06-16 02:49
-L["启用小怪护盾条模块"] = "启用小怪护盾条模块"  -- TODO: translate
-L["就绪边框"] = "就绪边框"  -- TODO: translate
-L["就绪边框颜色"] = "就绪边框颜色"  -- TODO: translate
-L["坦克也生效"] = "坦克也生效"  -- TODO: translate
+-- added 2026-06-17 07:20
+L["框架被点名提示"] = "Party Frame Target Alert"  -- TODO: translate
+L["倒数圈高亮"] = "Cooldown Ring Highlight"  -- TODO: translate
+L["最大数量"] = "Max Count"  -- TODO: translate
+
+L["启用小怪护盾条模块"] = "Enable Trash Shield Bar Module"  -- TODO: translate
+L["就绪边框"] = "Ready Border"  -- TODO: translate
+L["就绪边框颜色"] = "Ready Border Color"  -- TODO: translate
+L["坦克也生效"] = "Also Apply to Tanks"  -- TODO: translate
 L["当前:"] = "Current:"  -- TODO: translate
 L["下次:"] = "Next:"  -- TODO: translate
 L["等待识别"] = "Waiting for detection"  -- TODO: translate

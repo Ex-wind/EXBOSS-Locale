@@ -6,6 +6,11 @@ if not L then
 end
 
 -- added 2026-06-16 02:49
+-- added 2026-06-17 07:20
+L["框架被点名提示"] = "Party Frame Target Alert"
+L["倒数圈高亮"] = "Cooldown Ring Highlight"
+L["最大数量"] = "Max Count"
+
 L["启用小怪护盾条模块"] = "Enable Trash Shield Bar Module"
 L["就绪边框"] = "Ready Border"
 L["就绪边框颜色"] = "Ready Border Color"
