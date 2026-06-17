@@ -4,6 +4,23 @@ local L = ExBoss and ExBoss.NewLocale and ExBoss:NewLocale("zhCN", true)
 if not L then
     return
 end
+-- added 2026-06-16 02:49
+-- added 2026-06-17 07:20
+-- added 2026-06-17 07:37
+L["|cff00bfff坦克职责下开启|r"] = true
+
+L["框架被点名提示"] = true
+L["倒数圈高亮"] = true
+L["最大数量"] = true
+
+L["启用小怪护盾条模块"] = true
+L["就绪边框"] = true
+L["就绪边框颜色"] = true
+L["坦克也生效"] = true
+
+L["当前:"] = true
+L["下次:"] = true
+L["等待识别"] = true
 -- added 2026-06-10
 -- added 2026-06-10 22:06
 L["启用开怪倒数"] = true
@@ -1582,3 +1599,6 @@ L["启用双点音效"] = true
 L["仅5人本启用"] = true
 L["测试施法 "] = true
 L["2.5s"] = true
+
+L["就绪边框"] = true
+L["就绪边框颜色"] = true

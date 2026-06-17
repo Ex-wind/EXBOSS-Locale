@@ -19,6 +19,29 @@ end
 -- added 2026-06-08 21:43
 -- added 2026-06-08 22:34
 -- added 2026-06-10 22:06
+-- added 2026-06-16 02:49
+-- added 2026-06-17 07:20
+-- added 2026-06-17 07:37
+L["|cff00bfff坦克职责下开启|r"] = "|cff00bfffEnable for Tank|r"  -- TODO: translate
+
+L["框架被点名提示"] = "Party Frame Target Alert"  -- TODO: translate
+L["倒数圈高亮"] = "Cooldown Ring Highlight"  -- TODO: translate
+L["最大数量"] = "Max Count"  -- TODO: translate
+
+L["启用小怪护盾条模块"] = "Enable Trash Shield Bar Module"  -- TODO: translate
+L["就绪边框"] = "Ready Border"  -- TODO: translate
+L["就绪边框颜色"] = "Ready Border Color"  -- TODO: translate
+L["坦克也生效"] = "Also Apply to Tanks"  -- TODO: translate
+L["当前:"] = "Current:"  -- TODO: translate
+L["下次:"] = "Next:"  -- TODO: translate
+L["等待识别"] = "Waiting for detection"  -- TODO: translate
+L["[被点名提示] 整体配置"] = "[Target Alert] Full Config"  -- TODO: translate
+L["(无音效)"] = "(No Sound)"  -- TODO: translate
+L["是"] = "Yes"  -- TODO: translate
+L["否"] = "No"  -- TODO: translate
+L["隐藏长技能"] = "Hide Long Timers"  -- TODO: translate
+L["只显示最后几秒"] = "Only Show Last Seconds"  -- TODO: translate
+
 L["启用开怪倒数"] = "Enable Pull Countdown"  -- TODO: translate
 L["图标样式"] = "Icon Style"  -- TODO: translate
 L["图标设置(只在单图标生效)"] = "Icon Settings (Single Icon Only)"  -- TODO: translate
@@ -1802,3 +1825,6 @@ L["倒数4"] = "Four"
 L["倒数3"] = "Three"
 L["倒数2"] = "Two"
 L["倒数1"] = "One"
+
+L["就绪边框"] = "Рамка готовности"
+L["就绪边框颜色"] = "Цвет рамки готовности"

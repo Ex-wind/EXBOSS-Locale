@@ -30,6 +30,41 @@ L["目标路径"] = "Chemin cible"
 L["图标+文字"] = "Icone + Texte"  
 L["单图标"] = "Icone unique" 
 L["一键切换新版+导入小怪"] = "Changer vers le nouveau profil + Importer les Trash"
+-- added 2026-06-16 02:49
+-- added 2026-06-17 07:20
+-- added 2026-06-17 07:37
+L["|cff00bfff坦克职责下开启|r"] = "|cff00bfffEnable for Tank|r"  -- TODO: translate
+
+L["框架被点名提示"] = "Party Frame Target Alert"  -- TODO: translate
+L["倒数圈高亮"] = "Cooldown Ring Highlight"  -- TODO: translate
+L["最大数量"] = "Max Count"  -- TODO: translate
+
+L["启用小怪护盾条模块"] = "Enable Trash Shield Bar Module"  -- TODO: translate
+L["就绪边框"] = "Ready Border"  -- TODO: translate
+L["就绪边框颜色"] = "Ready Border Color"  -- TODO: translate
+L["坦克也生效"] = "Also Apply to Tanks"  -- TODO: translate
+L["当前:"] = "Current:"  -- TODO: translate
+L["下次:"] = "Next:"  -- TODO: translate
+L["等待识别"] = "Waiting for detection"  -- TODO: translate
+L["[被点名提示] 整体配置"] = "[Target Alert] Full Config"  -- TODO: translate
+L["(无音效)"] = "(No Sound)"  -- TODO: translate
+L["是"] = "Yes"  -- TODO: translate
+L["否"] = "No"  -- TODO: translate
+L["隐藏长技能"] = "Hide Long Timers"  -- TODO: translate
+L["只显示最后几秒"] = "Only Show Last Seconds"  -- TODO: translate
+
+L["启用开怪倒数"] = "Enable Pull Countdown"  -- TODO: translate
+L["图标样式"] = "Icon Style"  -- TODO: translate
+L["图标设置(只在单图标生效)"] = "Icon Settings (Single Icon Only)"  -- TODO: translate
+L["隐藏91级读条"] = "Hide Lv.91 Cast Bars"  -- TODO: translate
+L["首领战禁用(输入首领战ID 用,分隔)"] = "Disable in Boss Fights (Boss IDs, comma-separated)"  -- TODO: translate
+L["施法目标"] = "Cast Target"  -- TODO: translate
+L["冷却时间"] = "Cooldown"  -- TODO: translate
+L["自由依附"] = "Free Anchor"  -- TODO: translate
+L["目标路径"] = "Target Path"  -- TODO: translate
+L["图标+文字"] = "Icon + Text"  -- TODO: translate
+L["单图标"] = "Single Icon"  -- TODO: translate
+L["一键切换新版+导入小怪"] = "Switch to New Preset + Import Trash"  -- TODO: translate
 L["确认切换大米方案到 [CN] 12.0 新版，并导入 EXWIND_CN 小怪作者方案？\n这会覆盖当前本地小怪配置。"] = "Switch Mythic+ slots to the [CN] 12.0 preset and import the EXWIND_CN trash preset?\nThis will overwrite your current local trash config."  -- TODO: translate
 L["以下槽位缺少新版配置：%s"] = "Les emplacements suivants n'ont pas de configuration pour la nouvelle version : %s" 
 L["新版小怪作者方案不存在"] = "Le nouveau profil des trashs n'a pas été trouvé"  
@@ -1750,3 +1785,6 @@ L["倒数4"] = "Quatre"
 L["倒数3"] = "Trois"
 L["倒数2"] = "Deux"
 L["倒数1"] = "Un"
+
+L["就绪边框"] = "Bordure de disponibilité"
+L["就绪边框颜色"] = "Couleur de la bordure de disponibilité"
