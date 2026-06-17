@@ -20,6 +20,9 @@ end
 -- added 2026-06-10 22:06
 -- added 2026-06-16 02:49
 -- added 2026-06-17 07:20
+-- added 2026-06-17 07:37
+L["|cff00bfff坦克职责下开启|r"] = "|cff00bfffEnable for Tank|r"  -- TODO: translate
+
 L["框架被点名提示"] = "Party Frame Target Alert"  -- TODO: translate
 L["倒数圈高亮"] = "Cooldown Ring Highlight"  -- TODO: translate
 L["最大数量"] = "Max Count"  -- TODO: translate

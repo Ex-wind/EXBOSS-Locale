@@ -7,6 +7,9 @@ end
 
 -- added 2026-06-16 02:49
 -- added 2026-06-17 07:20
+-- added 2026-06-17 07:37
+L["|cff00bfff坦克职责下开启|r"] = "|cff00bfffEnable for Tank|r"
+
 L["框架被点名提示"] = "Party Frame Target Alert"
 L["倒数圈高亮"] = "Cooldown Ring Highlight"
 L["最大数量"] = "Max Count"
