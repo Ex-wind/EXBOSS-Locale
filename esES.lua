@@ -1699,3 +1699,6 @@ L["自定义事件"] = "Evento personalizado"
 L["事件分类"] = "Categoria de evento"
 L["自定义小怪事件"] = "Evento personalizado de enemigos"
 L["自定义小怪事件。"] = "Evento personalizado de enemigos."
+
+L["就绪边框"] = "Borde de disponibilidad"
+L["就绪边框颜色"] = "Color del borde de disponibilidad"

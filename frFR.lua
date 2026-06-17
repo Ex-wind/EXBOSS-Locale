@@ -1773,3 +1773,6 @@ L["倒数4"] = "Quatre"
 L["倒数3"] = "Trois"
 L["倒数2"] = "Deux"
 L["倒数1"] = "Un"
+
+L["就绪边框"] = "Bordure de disponibilité"
+L["就绪边框颜色"] = "Couleur de la bordure de disponibilité"

@@ -1689,3 +1689,6 @@ L["2.5s"] = "2,5s"
 L["/exb  打开/关闭    |    /exb edit  编辑模式    |    /exb Debug  调试"] = "/exb  öffnen/schließen    |    /exb edit  Bearbeitungsmodus    |    /exb Debug  Debug"
 L["测试失败：C_EncounterZeitachse.AddScriptEvent 不可用"] = "Test fehlgeschlagen: C_EncounterZeitachse.AddScriptEvent is unavailable."
 L["EXUI:CreateGlowEinstellungen 不可用，无法渲染发光参数。"] = "EXUI:CreateGlowEinstellungen is unavailable, so glow settings cannot be rendered."
+
+L["就绪边框"] = "Ready Border"
+L["就绪边框颜色"] = "Ready Border Color"

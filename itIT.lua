@@ -1705,3 +1705,6 @@ L["显示时间文字"] = "Mostra Testo Tempo"
 L["被点名提示"] = "Avviso Bersaglio"
 L["测试施法 "] = "Lancio Test "
 L["2.5s"] = "2.5s"
+
+L["就绪边框"] = "Ready Border"
+L["就绪边框颜色"] = "Ready Border Color"
